@@ -72,7 +72,7 @@
 ![gambar](tugas5/18.png)
 ![gambar](tugas5/19.png)
 ## Laporan Praktikum
-1. Buatlah repository baru dengan nama Lab5Web.
+1. Buatlah repository baru dengan nama ```Lab5Web```.
 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
 3. Screenshot setiap perubahannya.
 4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta
