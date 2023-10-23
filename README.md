@@ -14,35 +14,35 @@
 * Hasil Output
 ![gambar](tugas5/1.png)
 ## Javascrip Dasar
-* Pemakaian Alert sebagai property window.
+* Pemakaian ```Alert``` sebagai property window.
 ![gambar](tugas5/dasar.png)
 * Hasil Output
 ![gambar](tugas5/2.png)
-* Pemakaian method dalam objek.
+* Pemakaian ```method``` dalam objek.
 ![gambar](tugas5/method.png)
 * Hasil Output
 ![gambar](tugas5/3.png)
-* Pemakaian Prompt
+* Pemakaian ```Prompt```
 ![gambar](tugas5/prom.png)
 * Hasil Output
 ![gambar](tugas5/4.png)
 ![gambar](tugas5/5.png)
 ![gambar](tugas5)
-* Pembuatan fungsi dan cara pemanggilannya
+* Pembuatan ```fungsi``` dan cara pemanggilannya
 ![gambar](tugas5/fungsi.png)
 ## Dasar Pemrograman Di Javascript
-* Operasi dasar aritmatika
+* Operasi dasar ```aritmatika```
 ![gambar](tugas5/aritmatika.dasar.png)
 * Hasil Output
 ![gambar](tugas5/6.png)
-* Seleksi kondisi (if..else)
+* Seleksi ```kondisi``` (if..else)
 ![gambar](tugas5/kondisi.png)
 * Hasil Output
 ![gambar](tugas5/7.png)
 ![gambar](tugas5/8.png)
 ![gambar](tugas5/9.png)
 ![gambar](tugas5/10.png)
-* Penggunaan operator switch untuk seleksi kondisi
+* Penggunaan ```operator switch``` untuk seleksi kondisi
 ![gambar](tugas5/operasi.switch.png)
 * Hasil Output
 ![gambar](tugas5/11.png)
@@ -50,22 +50,22 @@
 ![gambar](tugas5/13.png)
 ![gambar](tugas5/14.png)
 ## Pembuatan Form
-* Form Input
+* Form ```Input```
 ![gambar](tugas5/input.png)
 * Hasil Output
 ![gambar](tugas5/15.png)
 ![gambar](tugas5/16.png)
-* Form Button
+* Form ```Button```
 ![gambar](tugas5/button.png)
 * Hasil Output
 ![gambar](tugas5/17.png)
-## HTML DOM
-* Pilihan menggunakan checkBox dengan perhitungan otomatis
+## HTML ```DOM```
+* Pilihan menggunakan ```checkBox``` dengan perhitungan otomatis
 ![gambar](tugas5/dom.png)
 * Hasil Output
 ![gambar](tugas5/20.png)
 ## Pertanyaan dan Tugas
-1. Buat script untuk melakukan validasi pada isian form.
+1. ```Buat script untuk melakukan validasi pada isian form.```
 ![gambar](tugas5/code.hd.png)
 ![gambar](tugas5/codehome.png)
 ![gambar](tugas5/css.png)
