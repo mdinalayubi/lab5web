@@ -5,7 +5,7 @@
 
 ## Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
-2. Buat folder baru dengan nama lab5_javascript.
+2. Buat folder baru dengan nama ```lab5_javascript```.
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 ## Langkah-langkah Praktikum
@@ -13,7 +13,7 @@
 ![gambar](tugas5/lab5.png)
 * Hasil Output
 ![gambar](tugas5/1.png)
-## Javascrip Dasar
+## Javascript Dasar
 * Pemakaian ```Alert``` sebagai property window.
 ![gambar](tugas5/dasar.png)
 * Hasil Output
