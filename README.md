@@ -27,7 +27,6 @@
 * Hasil Output
 ![gambar](tugas5/4.png)
 ![gambar](tugas5/5.png)
-![gambar](tugas5)
 * Pembuatan ```fungsi``` dan cara pemanggilannya
 ![gambar](tugas5/fungsi.png)
 ## Dasar Pemrograman Di Javascript
